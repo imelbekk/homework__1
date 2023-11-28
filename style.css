@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    border: 1px solid rgba(128, 128, 128, 0.596);
+    width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+}
+
+#text{
+    width: 350px;
+    height: 50px;
+    padding: 10px 30px;
+    margin-right: 50px;
+    font-family: sans-serif;
+}
+
+#btn{
+    width: 50px;
+    height: 50px;
+    background-color: #867979;
+    border: none;
+    color: whitesmoke;
+    font-family: sans-serif;
+}
+
+#btn:hover{
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
+p{
+    margin-top: 30px;
+    font-family: sans-serif;
+}
